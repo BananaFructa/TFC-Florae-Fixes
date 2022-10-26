@@ -1,0 +1,16 @@
+[
+{
+  "modid": "floraefixes",
+  "name": "TFC Florae Fixes",
+  "description": "Fixes a lot of bugs and missing content related to TFC Florae",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["BananaFructa"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
